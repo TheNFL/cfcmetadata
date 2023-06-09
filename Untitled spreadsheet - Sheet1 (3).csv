@@ -1,0 +1,98 @@
+NCAA FBS,,,,,,
+Atlantic Coast,North,South,,,,
+American,East,West,,,,
+Big Ten,East,West,,,,
+Big 12,North,South,,,,
+Pacific 12,North,South,,,,
+Southeastern,East,West,,,,
+# Team format:,Conference,Division,Name,Abbr,Prestige,Rival
+# Atlantic Coast,,,,,,
+TEAM,Atlantic Coast,North,Boston College,BC,64,MIA
+TEAM,Atlantic Coast,North,Louisville,LOU,80,UNC
+TEAM,Atlantic Coast,North,Pittsburgh,PITT,84,GT
+TEAM,Atlantic Coast,North,Syracuse,SYR,74,DUKE
+TEAM,Atlantic Coast,North,Virginia,UVA,68,FSU
+TEAM,Atlantic Coast,North,Virginia Tech,VT,66,CLEM
+TEAM,Atlantic Coast,North,Wake Forest,WAKE,76,NCST
+TEAM,Atlantic Coast,South,Clemson,CLEM,90,VT
+TEAM,Atlantic Coast,South,Duke,DUKE,82,SYR
+TEAM,Atlantic Coast,South,Florida State,FSU,88,UVA
+TEAM,Atlantic Coast,South,Georgia Tech,GT,72,PITT
+TEAM,Atlantic Coast,South,Miami,MIA,70,BC
+TEAM,Atlantic Coast,South,North Carolina,UNC,86,LOU
+TEAM,Atlantic Coast,South,North Carolina State,NCST,78,WAKE
+# American,,,,,,
+TEAM,American,East,Charlotte,CHAR,58,MEM
+TEAM,American,East,East Carolina,ECU,76,UNT
+TEAM,American,East,Florida Atlantic,FAU,66,RICE
+TEAM,American,East,Navy,NAVY,60,SMU
+TEAM,American,East,South Florida,USF,54,TULN
+TEAM,American,East,Temple,TEM,56,TULS
+TEAM,American,East,Alabama Birmingham,UAB,70,UTSA
+TEAM,American,West,Memphis,MEM,72,CHAR
+TEAM,American,West,North Texas,UNT,68,ECU
+TEAM,American,West,Rice,RICE,62,FAU
+TEAM,American,West,Southern Methodist,SMU,74,NAVY
+TEAM,American,West,Tulane,TULN,80,USF
+TEAM,American,West,Tulsa,TULS,64,TEM
+TEAM,American,West,Texas San Antonio,UTSA,78,UAB
+# Big Ten,,,,,,
+TEAM,Big Ten,East,Indiana,IND,68,PUR
+TEAM,Big Ten,East,Maryland,MARY,82,IOWA
+TEAM,Big Ten,East,Michigan,MICH,90,MINN
+TEAM,Big Ten,East,Michigan State,MSU,72,WISC
+TEAM,Big Ten,East,Ohio State,OSU,88,NW
+TEAM,Big Ten,East,Penn State,PSU,86,ILL
+TEAM,Big Ten,East,Rutgers,RUT,66,NEB
+TEAM,Big Ten,West,Illinois,ILL,80,PSU
+TEAM,Big Ten,West,Iowa,IOWA,78,MARY
+TEAM,Big Ten,West,Minnesota,MINN,84,MICH
+TEAM,Big Ten,West,Nebraska,NEB,70,RUT
+TEAM,Big Ten,West,Northwestern,NW,64,OSU
+TEAM,Big Ten,West,Purdue,PUR,76,IND
+TEAM,Big Ten,West,Wisconsin,WISC,74,MSU
+# Big 12,,,,,,
+TEAM,Big 12,North,Brigham Young,BYU,76,BAY
+TEAM,Big 12,North,Cincinnati,CINCY,80,HOU
+TEAM,Big 12,North,Iowa State,ISU,64,TTU
+TEAM,Big 12,North,Kansas,KAN,68,TCU
+TEAM,Big 12,North,Kansas State,KSU,88,TEX
+TEAM,Big 12,North,Oklahoma State,OKST,82,OU
+TEAM,Big 12,North,West Virginia,WVU,66,UCF
+TEAM,Big 12,South,Baylor,BAY,72,BYU
+TEAM,Big 12,South,Central Florida,UCF,78,WVU
+TEAM,Big 12,South,Houston,HOU,74,CIN
+TEAM,Big 12,South,Oklahoma,OU,70,OKST
+TEAM,Big 12,South,Texas Christian,TCU,90,KAN
+TEAM,Big 12,South,Texas,TEX,86,KSU
+TEAM,Big 12,South,Texas Tech,TTU,84,ISU
+# Pacific 12,,,,,,
+TEAM,Pacific 12,North,Boise State,BOISE,80,ASU
+TEAM,Pacific 12,North,Eastern Washington,EWU,50,CAL
+TEAM,Pacific 12,North,Oregon,ORE,84,USC
+TEAM,Pacific 12,North,Oregon State,ORST,82,UCLA
+TEAM,Pacific 12,North,Utah,UTAH,88,COL
+TEAM,Pacific 12,North,Washington,WASH,86,STAN
+TEAM,Pacific 12,North,Washington State,WSU,76,ARIZ
+TEAM,Pacific 12,South,Arizona,ARIZ,74,WSU
+TEAM,Pacific 12,South,Arizona State,ASU,70,BOISE
+TEAM,Pacific 12,South,California,CAL,72,EWU
+TEAM,Pacific 12,South,Cal Los Angeles,UCLA,78,ORST
+TEAM,Pacific 12,South,Colorado,COL,66,UTAH
+TEAM,Pacific 12,South,Southern California,USC,90,ORE
+TEAM,Pacific 12,South,Stanford,STAN,68,WASH
+# Southeastern,,,,,,
+TEAM,Southeastern,East,Florida,UF,72,AUB
+TEAM,Southeastern,East,Georgia,UGA,92,MISS
+TEAM,Southeastern,East,Kentucky,UK,76,LSU
+TEAM,Southeastern,East,Missouri,MIZZ,70,TAMU
+TEAM,Southeastern,East,South Carolina,SCAR,80,MSST
+TEAM,Southeastern,East,Tennessee,TENN,88,BAMA
+TEAM,Southeastern,East,Vanderbilt,VANDY,68,ARK
+TEAM,Southeastern,West,Alabama,BAMA,86,TENN
+TEAM,Southeastern,West,Arkansas,ARK,74,VANDY
+TEAM,Southeastern,West,Auburn,AUB,66,UF
+TEAM,Southeastern,West,Louisiana State,LSU,84,UK
+TEAM,Southeastern,West,Mississippi,MISS,78,UGA
+TEAM,Southeastern,West,Mississippi State,MSST,82,SCAR
+TEAM,Southeastern,West,Texas A&M,TAMU,64,MIZZ
